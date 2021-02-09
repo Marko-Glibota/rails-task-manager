@@ -1,0 +1,15 @@
+@import "bootstrap/scss/bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+ul {
+  list-style: none;
+}
+
+ul > li {
+  margin-top: 10px;
+}
+
+.container {
+  width: 1000px;
+}
